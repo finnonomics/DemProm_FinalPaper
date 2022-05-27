@@ -4,8 +4,12 @@
 # First version: 2022-05-20
 # This version: 2022-05-27
 
-# This script conducts an exploratory anlysis of the key datasets 
-# SIGRIfor the proposed
+# This script conducts an exploratory analysis of the key data sets that are
+# proposed to be used in a study that examines the impact of arms trade on
+# democracy promotion. 
+
+# Data sets used are the Varieties of Democracy data set and the arms trade
+# register by the Swedish Institute for Peace Research (SIPRI)
 
 #### Packages & setup ####
 
