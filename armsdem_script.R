@@ -111,7 +111,7 @@ ggsave("figures_tables/plot_scores.png",
        height = 1250,
        units = "px")
 
-#Create scatterplot for change in democracy scores
+#Create scatter plot for changes in democracy scores with a lag of 5 years
 armsdem %>% 
   drop_na(tiv, v2x_polyarchy) %>% 
   filter(region != "North America") %>% 
